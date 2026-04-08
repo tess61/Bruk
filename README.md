@@ -88,19 +88,19 @@ It combines:
 
 ### Dashboard
 
-![Dashboard Screenshot](public/screenshot/Desktop_Dashboard.png)
+![Desktop Dashboard Screenshot](public/screenshot/Desktop_Dashboard.png), ![](public/screenshot/Mobile_Dashboard.png)
 
 ### To-Do List
 
-![Todo Screenshot](./screenshots/todo.png)
+![Desktop Todo Screenshot](public/screenshot/Desktop_TodoList.png  ),   ![](public/screenshot/Mobile_TodoLis.png)
 
 ### Journal
 
-![Journal Screenshot](./screenshots/journal.png)
+![Desktop Journal Screenshot](public/screenshot/Desktop_Journal.png),   ![](public/screenshot/Mobile_Journal.png)
 
 ### Timer
 
-![Timer Screenshot](./screenshots/timer.png)
+![Desktop Timer Screenshot](public/screenshot/Desktop_Timer.png),   ![](public/screenshot/Mobile_Timer.png)
 
 ---
 
