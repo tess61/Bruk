@@ -88,7 +88,7 @@ It combines:
 
 ### Dashboard
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](public/screenshot/Desktop_Dashboard.png)
 
 ### To-Do List
 
